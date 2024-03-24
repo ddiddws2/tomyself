@@ -10,12 +10,7 @@ SELECT @@autocommit;
 SET autocommit=0;
 ```
 ---
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-   ```
----
+
 <br>
 
 # Tips Oracle
