@@ -3,6 +3,6 @@
 > SELECT @@autocommit;
 ---
 
-#### 無効化する方法<br>
+#### autocommitを無効化する方法<br>
 > SET autocommit=0;
 ---
